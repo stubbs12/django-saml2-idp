@@ -1,0 +1,7 @@
+#summary Requirements and Pre-requisites
+
+= Python Modules =
+
+These Python modules are required:
+  * PySAML [https://github.com/tachang/PySAML]
+  * BeautifulSoup (as of revision 14)
